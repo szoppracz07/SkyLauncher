@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mc Launcher", "Mc Launcher\Mc Launcher.csproj", "{865A210F-AA0A-45AD-BB87-6F18577D16F3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Sky Launcher", "Sky Launcher\Sky Launcher.vdproj", "{77EE039A-92E1-418A-9543-BDABC298F6FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{865A210F-AA0A-45AD-BB87-6F18577D16F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{865A210F-AA0A-45AD-BB87-6F18577D16F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{865A210F-AA0A-45AD-BB87-6F18577D16F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{865A210F-AA0A-45AD-BB87-6F18577D16F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77EE039A-92E1-418A-9543-BDABC298F6FB}.Debug|Any CPU.ActiveCfg = Debug
+		{77EE039A-92E1-418A-9543-BDABC298F6FB}.Release|Any CPU.ActiveCfg = Release
+		{77EE039A-92E1-418A-9543-BDABC298F6FB}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85F3933E-D718-4E24-98E6-3073F44EE885}
+	EndGlobalSection
+EndGlobal
